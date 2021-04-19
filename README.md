@@ -1,7 +1,7 @@
-Role Name
+myapache
 =========
 
-A brief description of the role goes here.
+This role will configure apache httpd webserver.
 
 Requirements
 ------------
